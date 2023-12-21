@@ -1,8 +1,8 @@
-# spring-boot3.2-auth-jjwt0.12.6
 
-# Project Name
 
-A brief description of your project.
+# Spring Boot and JWT Authentication
+
+Implementing the JWT token generation with the hep on JJWT 0.12.6 version, and authentication using JWT token in Spring boot 3.2.
 
 ## Future Plans
 
